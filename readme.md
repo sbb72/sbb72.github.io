@@ -15,18 +15,28 @@ A couple of pictures of the hardware before I started to unbox it.
 
 ### Hardware list
 
-| Hardware | Make                                           | Make               | Comments                                                                                                                           |
-| -------- | ---------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Server   | SUPERMICRO Server system                       | SYS-E300-9D-8CN8TP | Link to full description [SYS-E300-9D-8CN8TP Specs](https://www.supermicro.com/en/products/system/Mini-ITX/SYS-E300-9D-8CN8TP.cfm) |
-| Memory   | Samsung 32GB DDR4 2666MHz LP ECC Registered x2 | M393A4K40CB2-CTD   |
-| Disk     | Supermicro 64GB SATADOM                        | SSD-DM064-SMCMVN1  | Used to install ESXi                                                                                                               |
-| Disk     | Samsung 256GB PM981 M.2 PCIe NVMe              | MZVLB256HAHQ-00000 | Cache disk for vSAN                                                                                                                |
-| Disk     | Intel 660p 1TB M.2 PCIe QLC 3D                 | SSDPEKNW010T8X1    | Capacity Disk for vSAN                                                                                                             |
-| Disk     | Intel 660p 1TB M.2 PCIe QLC 3D                 | SSDPEKNW010T8X1    | Capacity Disk for vSAN                                                                                                             |
+
+#### SUPERMICRO Server system  SYS-E300-9D-8CN8TP
+| Hardware | Make                                           | Make               | Comments                                                                                                                                       |
+| -------- | ---------------------------------------------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Server   | SUPERMICRO Server system                       | SYS-E300-9D-8CN8TP | Link to full description [SYS-E300-9D-8CN8TP Specs](https://www.supermicro.com/en/products/system/Mini-ITX/SYS-E300-9D-8CN8TP.cfm)  vSAN Nodes |
+| Memory   | Samsung 32GB DDR4 2666MHz LP ECC Registered x2 | M393A4K40CB2-CTD   | 64 GB of memory                                                                                                                                |
+| Disk     | Supermicro 64GB SATADOM                        | SSD-DM064-SMCMVN1  | Used to install ESXi                                                                                                                           |
+| Disk     | Samsung 256GB PM981 M.2 PCIe NVMe              | MZVLB256HAHQ-00000 | Cache disk for vSAN                                                                                                                            |
+| Disk     | Intel 660p 1TB M.2 PCIe QLC 3D                 | SSDPEKNW010T8X1    | Capacity Disk for vSAN                                                                                                                         |
+| Disk     | Intel 660p 1TB M.2 PCIe QLC 3D                 | SSDPEKNW010T8X1    | Capacity Disk for vSAN                                                                                                                         |
+
+#### Intel NUC	Hades Canyon
+
+| Hardware | Make                                       | Make         | Comments                                                   |
+| -------- | ------------------------------------------ | ------------ | ---------------------------------------------------------- |
+| Server   | Intel NUC                                  | Hades Canyon | Used host vSAN Witness (and other VMs not in vSAN Cluster) |
+| Disk     | WD Green M.2 SSD 240GB 7mm SATA Gen 3      | WDS240G2G0B  | ESXi installed on this SSD                                 |
+| Memory   | Crucial 32GB Kit (16GBx2) DDR4-2400 SODIMM |              | 32 GB of Memory                                            |
+| Disk     | Crucial P1 1TB 3D NAND NVMe PCIe M.2 SSD   | CT1000P1SSD8 | Capacity SSD                                               |
 
 
 
-
-![](pics/cables_esxi.png? "cables")
+![](pics/cables.png? "cables")
 
 
