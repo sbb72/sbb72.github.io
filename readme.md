@@ -27,3 +27,5 @@ A couple of pictures of the hardware before I started to unbox it.
 
 
 ![cables](pics/cables_esxi.jpg?raw=true "cables")
+
+
