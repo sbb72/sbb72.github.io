@@ -9,8 +9,8 @@ I used William Lam (https://www.virtuallyghetto.com/home-lab) site alot to help 
 ### Delivery has arrived!
 A couple of pictures of the hardware before I started to unbox it.
 
-![nuc](pics/nuc.jpg?raw=true "nuc")
-![supermirco](pics/supermicro_boxed.jpg?raw=true "supermirco")
+![](pics/nuc.png? "nuc")
+![](pics/supermicro_boxed.png? "supermirco")
 
 ### Hardware list
 
@@ -26,6 +26,6 @@ A couple of pictures of the hardware before I started to unbox it.
 
 
 
-![cables](pics/cables_esxi.jpg?raw=true "cables")
+![](pics/cables_esxi.png? "cables")
 
 
