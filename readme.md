@@ -19,6 +19,7 @@ A couple of pictures of the hardware before I started to unbox it.
 #### Supermicro Server system  SYS-E300-9D-8CN8TP
 
 I've got 2 Supermicro servers,  link to full description [SYS-E300-9D-8CN8TP Specs](https://www.supermicro.com/en/products/system/Mini-ITX/SYS-E300-9D-8CN8TP.cfm) 
+
 | Hardware | Model                                          | Part No            | Comments               |
 | -------- | ---------------------------------------------- | ------------------ | ---------------------- |
 | Server   | SUPERMICRO Server system                       | SYS-E300-9D-8CN8TP | vSAN Nodes             |
@@ -31,6 +32,7 @@ I've got 2 Supermicro servers,  link to full description [SYS-E300-9D-8CN8TP Spe
 #### Intel NUC	Hades Canyon
 
 One Intel NUC	Hades Canyon node.
+
 | Hardware | Model                                      | Part No      | Comments                                                   |
 | -------- | ------------------------------------------ | ------------ | ---------------------------------------------------------- |
 | Server   | Intel NUC                                  | Hades Canyon | Used host vSAN Witness (and other VMs not in vSAN Cluster) |
