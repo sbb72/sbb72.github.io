@@ -1,7 +1,16 @@
 # Home Lab
 
-### Introdution
+### Introduction
 This is a quick ramble about my home lab.
+
+
+I used William Lam (https://www.virtuallyghetto.com/home-lab) site alot to help choose my hardware. I'd recommend his site and following him on Twitter if you're interested on home labs, loads of good information.
+
+### Delivery has arrived!
+A couple of pictures of the hardware before I started to unbox it.
+
+![nuc](pics/nuc.jpg?raw=true "nuc")
+![supermirco](pics/supermicro_boxed.jpg?raw=true "supermirco")
 
 ### Hardware list
 
@@ -13,3 +22,8 @@ This is a quick ramble about my home lab.
 | Disk | Samsung 256GB PM981 M.2 PCIe NVMe | MZVLB256HAHQ-00000 | Cache disk for vSAN |
 | Disk | Intel 660p 1TB M.2 PCIe QLC 3D | SSDPEKNW010T8X1 | Capacity Disk for vSAN |
 | Disk | Intel 660p 1TB M.2 PCIe QLC 3D | SSDPEKNW010T8X1 | Capacity Disk for vSAN |
+
+
+
+
+![cables](pics/cables_esxi.jpg?raw=true "cables")
