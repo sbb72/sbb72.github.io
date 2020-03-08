@@ -9,7 +9,7 @@ After reviewing various different hardware vedours I decided on Supermicro SYS-E
 ### Delivery has arrived!
 A couple of pictures of the hardware before I started to unbox it.
 
-![](/pics/nuc.png? "nuc")
+![](pics/nuc.png? "nuc")
 ![](pics/supermicro_boxed.png? "supermirco")
 
 ## Hardware list
