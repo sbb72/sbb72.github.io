@@ -3,7 +3,7 @@
 ## Introduction
 This is a quick ramble about my home lab.
 
-I used William Lam [virtuallyghetto link](https://www.virtuallyghetto.com/home-lab) site a lot to help choose my hardware configuration.I'd recommend his site and following him on Twitter if you're interested on home labs (and all things to do with virtualisation), lots of good information.
+I used William Lam [virtuallyghetto link](https://www.virtuallyghetto.com/home-lab) site a lot to help choose my hardware configuration. I'd recommend his site and following him on Twitter if you're interested on home labs (and all things to do with virtualisation), lots of good information.
 After reviewing various different hardware vedours I decided on Supermicro SYS-E300-9D-8CN8TP due to the on boaord nics and the physical size of the hardware.
 
 ### Delivery has arrived!
@@ -42,12 +42,12 @@ One Intel NUC	Hades Canyon node.
 
 ## What does it look like?
 
-Below is a picture on what the hardware looks like, I still need to buy \ create a shelving unit because the units get quite how on top of each other.
+Below is a picture on what the hardware looks like, I still need to buy \ create a shelving unit because the servers get quite hot on top of each other.
 
 ![](pics/allservers.png? "servers")
 
 
-### Still to document \ blog about the following:
+### Still need to document \ blog about the following:
 * Configuration of the software stack installed.
 * Network configuration.
 * Shevling \ cabin for the servers and the switch.  #legovsan looks interesting :-)
