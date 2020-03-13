@@ -42,12 +42,12 @@ One Intel NUC	Hades Canyon node.
 
 ## What does it look like?
 
-Below is a picture on what the hardware looks like, I still need to buy \ create a shelving unit because the units get quite how on top of each other.
+Below is a picture on what the hardware looks like, I still need to buy \ create a shelving unit because the servers get quite hot on top of each other.
 
 ![](pics/allservers.png? "servers")
 
 
-### Still to document \ blog about the following:
+### Still need to document \ blog about the following:
 * Configuration of the software stack installed.
 * Network configuration.
 * Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-)
