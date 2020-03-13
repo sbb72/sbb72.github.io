@@ -4,7 +4,7 @@
 This is a quick ramble about my home lab.
 
 I used William Lam [virtuallyghetto link](https://www.virtuallyghetto.com/home-lab) site a lot to help choose my hardware configuration.I'd recommend his site and following him on Twitter if you're interested on home labs (and all things to do with virtualisation), lots of good information.
-After reviewing various different hardware vedours I decided on Supermicro SYS-E300-9D-8CN8TP due to the on boaord nics and the physical size of the hardware.
+After reviewing various different hardware vedours I decided on Supermicro SYS-E300-9D-8CN8TP due to the on board nics and the physical size of the hardware.
 
 ### Delivery has arrived!
 A couple of pictures of the hardware before I started to unbox it.
@@ -50,5 +50,5 @@ Below is a picture on what the hardware looks like, I still need to buy \ create
 ### Still to document \ blog about the following:
 * Configuration of the software stack installed.
 * Network configuration.
-* Shevling \ cabin for the servers and the switch.  #legovsan looks interesting :-)
+* Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-)
 
