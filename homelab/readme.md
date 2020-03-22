@@ -3,17 +3,18 @@
 ## Introduction
 This is a quick ramble about my home lab.
 
-I used William Lam [virtuallyghetto link](https://www.virtuallyghetto.com/home-lab) site a lot to help choose my hardware configuration.I'd recommend his site and following him on Twitter if you're interested on home labs (and all things to do with virtualisation), lots of good information.
+I used William Lam web site \ blog [virtuallyghetto](https://www.virtuallyghetto.com/home-lab) site a lot to help choose my hardware configuration.I'd recommend his site and following him on Twitter if you're interested on home labs (and all things to do with virtualisation), lots of good information.
 After reviewing various different hardware vendors I decided on Supermicro SYS-E300-9D-8CN8TP due to the on board nics and the physical size of the hardware.
 
 ### Delivery has arrived!
-A couple of pictures of the hardware before I started to unbox it.
+Boxes of new stuff :-) 
 
 ![](pics/nuc.png? "nuc")
 ![](pics/supermicro_boxed.png? "supermirco")
 
 ## Hardware list
-I wanted to install ESXi, vCenter and vSAN so I opted for 2 x Supermicro Server system  SYS-E300-9D-8CN8TP and one Intel NUC Hades Canyon to create vSAN ROBO.  The Supermicro servers are used as the vSAN nodes, the Intel NUC is used for the vSAN Witness etc.  Below is a list of the hardware components:
+I previously had 2 Dell Precision T3600 desktops and a HP Micro server with vSAN configured.  I wanted to upgrade due to the size of rh hardware and the disk configuration limitations of the Dell machines. <br>
+I wanted to install ESXi, vCenter and vSAN with the option of lots of Memory so I opted for 2 x Supermicro Server system  SYS-E300-9D-8CN8TP and one Intel NUC Hades Canyon to create a vSAN ROBO configuration.  The Supermicro servers are used as the vSAN nodes, the Intel NUC is used for the vSAN Witness etc.  Below is a list of the hardware components:
 
 #### Supermicro Server system  SYS-E300-9D-8CN8TP
 
@@ -50,5 +51,7 @@ Below is a picture on what the hardware looks like, I still need to buy \ create
 ### Still need to document \ blog about the following:
 * Configuration of the software stack installed.
 * Network configuration.
-* Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-)
-
+* Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-) <br>
+UPDATE
+I've created (well mainly my son) a make shift lego rack while I figure out what I the permanent solution will be.
+![](pics/lego_rack.png? "lego_rack")
