@@ -49,10 +49,11 @@ Below is a picture on what the hardware looks like, I still need to buy \ create
 
 
 ### Still need to document \ blog about the following:
-* Configuration of the software stack installed.
-* Network configuration.
-* Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-) <br>
-UPDATE
+* Configuration of the software stack installed. <br>
+* Network configuration. <br>
+<s>* Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-)</s>  
+
+
 I've created (well mainly my son) a make shift lego rack while I figure out what I the permanent solution will be. <br>
 
 ![](pics/lego_rack.png? "lego_rack")
