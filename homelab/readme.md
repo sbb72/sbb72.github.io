@@ -1,4 +1,4 @@
-# Home Lab v1# Home Lab v1
+# Home Lab
 
 ## Introduction
 This is a quick ramble about my home lab.
@@ -53,5 +53,6 @@ Below is a picture on what the hardware looks like, I still need to buy \ create
 * Network configuration.
 * Shelving \ cabin for the servers and the switch.  #legovsan looks interesting :-) <br>
 UPDATE
-I've created (well mainly my son) a make shift lego rack while I figure out what I the permanent solution will be.
+I've created (well mainly my son) a make shift lego rack while I figure out what I the permanent solution will be. <br>
+
 ![](pics/lego_rack.png? "lego_rack")
