@@ -57,3 +57,4 @@ Below is a picture on what the hardware looks like, I still need to buy \ create
 I've created (well mainly my son) a make shift lego rack while I figure out what I the permanent solution will be. <br>
 
 ![](pics/lego_rack.png? "lego_rack")
+
